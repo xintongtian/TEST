@@ -24,6 +24,9 @@ a = ""
 
 
 print(a)
+
+
+print(3333)
 if not a:
     print("1")
 else:
