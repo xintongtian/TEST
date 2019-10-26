@@ -17,3 +17,13 @@
 # else:
 #     print("未超过" + str(min_hour) + "小时")
 
+
+
+a = ""
+
+#22222222222222222222
+
+if not a:
+    print("1")
+else:
+    print("2")
